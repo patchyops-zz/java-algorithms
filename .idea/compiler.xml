@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="IntelliJ-java-algorithms_main" target="1.8" />
+      <module name="IntelliJ-java-algorithms_test" target="1.8" />
       <module name="java-algorithms_main" target="1.8" />
+      <module name="java-algorithms_perf" target="1.8" />
       <module name="java-algorithms_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
